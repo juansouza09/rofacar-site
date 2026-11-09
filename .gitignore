@@ -1,0 +1,14 @@
+node_modules/
+.vercel/
+.env*
+!.env.example
+.DS_Store
+
+# Propostas comerciais e arquivos temporários locais
+output/
+tmp/
+
+# Capturas e dados brutos de pesquisa
+docs/*.png
+docs/*.jpg
+docs/*.json

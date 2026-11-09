@@ -1,0 +1,7 @@
+# Abertura com dois carros
+
+Gerada em 30/10/2026 com a ferramenta nativa Imagegen. Destino: `public/assets/hero.webp`. Conversão WebP por cwebp, qualidade 82, sem edição do conteúdo gerado.
+
+## Prompt utilizado
+
+Use case: ads-marketing. Asset type: panoramic website hero background for Rofacar automotive services. Create a photorealistic premium automotive editorial photograph, landscape 16:9. Two recognizable real modern Brazilian-market cars: a facelift Peugeot 208 GT in metallic graphite, current lion shield badge and three-claw daytime running lights, and a Brazilian Citroën C3 in pearl white with black roof, double chevron grille and split headlights. Correct distinct car designs, natural proportions, accurate wheel geometry. Both entire cars clearly visible, arranged side by side in three-quarter front views in the right 60 percent of the frame, slightly staggered with minimal overlap; Peugeot in foreground right, Citroën behind toward center. Left 40 percent clean dark charcoal negative space for HTML text. Dark seamless automotive photography studio, understated blue edge light and red rim light, soft white overhead reflections, subtle matte floor reflections. Restrained professional aesthetic matching graphite/blue/white/red website. No people, no workshop facade, no added text or slogan, no watermark, no extra vehicles. The cars should both remain identifiable when this image is used as a hero background. Generate a polished realistic image, not a website mockup.

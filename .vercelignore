@@ -1,0 +1,9 @@
+node_modules/
+docs/
+tests/
+AGENTS.md
+PRODUCT.md
+README.md
+package.json
+package-lock.json
+.env*

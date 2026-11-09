@@ -1,0 +1,19 @@
+{
+  "name": "rofacar-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "python3 -m http.server 4173 --bind 127.0.0.1 --directory public",
+    "test": "node --test",
+    "check": "node --check public/main.js && npm test"
+  },
+  "engines": {
+    "node": ">=20.19"
+  },
+  "devDependencies": {
+    "@fontsource-variable/manrope": "^5.3.0",
+    "@fontsource/barlow-condensed": "^5.3.0",
+    "jsdom": "^26.1.0"
+  }
+}
